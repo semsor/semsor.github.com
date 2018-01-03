@@ -1,1 +1,1 @@
-# semsor.github.com
+# semsor.github.io
